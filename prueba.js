@@ -3,3 +3,6 @@ function saludo(){
 }
 
 var hola = 2;
+
+
+var hola = 1;
